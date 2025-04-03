@@ -44,7 +44,8 @@ npm run dev
 
 ## Ekran Görüntüleri
 
-(Ekran görüntüleri buraya eklenecek)
+![rentacar projesi](https://github.com/user-attachments/assets/815bcc2e-b3b6-487f-bd89-d90e2acaef3d)
+
 
 ## Lisans
 
